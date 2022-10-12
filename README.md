@@ -4,6 +4,8 @@
 
 This is a single-loop buffer that utilizes aluminum extrusion to constrain the filament within the buffer.  It is designed around Openbuilds V-slot extrusion because I had tons of it around.  It also uses the buffer wheel and bearing from the Enraged Rabbit Carrot Feeder project.
 
+![](Images/MBuffer.jpg)
+
 The design could probably be modified to work with other 20x20 extrusion, but it would not be a trivial task.  The slot in the top wheel assembly depends on the extra space made available by the "V" slot.  Additionally, the tapered slot provides a natural guide for the filament once it leaves the printed wheel assembly.
 
 ![](Images/MBuffer-extrusion-section.jpg)
