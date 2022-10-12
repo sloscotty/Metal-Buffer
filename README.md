@@ -35,6 +35,7 @@ For example, I'm using ERCF on a Switchwire with an LGX.  My bowden tube is 425m
  - (4) [#10 x 3/4" Self-Tapping Screws](https://openbuildspartstore.com/self-tapping-screw/) (in case you don't like tapping)
  
 **Note 1:** You can use a bit longer screws (1-2mm) than shown **except** for the M3 BHCS (axle screws).
+
 **Note 2:** The top assembly *clamps* the PTFE tubing in place. Use of less than 2.5mm ID risks "choking" the filament.
 
 ## Directions
