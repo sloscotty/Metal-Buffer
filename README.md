@@ -6,7 +6,7 @@ This is a single-loop buffer that utilizes aluminum extrusion to constrain the f
 
 The design could probably be modified to work with other 20x20 extrusion, but it would not be a trivial task.  The slot in the top wheel assembly depends on the extra space made available by the "V" slot.  Additionally, the tapered slot provides a natural guide for the filament once it leaves the printed wheel assembly.
 
-![](Images/MBuffer-extrusion-section)
+![](Images/MBuffer-extrusion-section.jpg)
 
 For you ERCF users, V-slot is available in 20x60 (enough for 3 buffers) for about $20/meter. And the spacing exactly matches the tool spacing of the ERCF. (It's also available in 20x40 and 20x80.)
 
