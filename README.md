@@ -54,12 +54,12 @@ The Documentation folder contains the [assembly instructions](./Documentation/MB
 
 The top of the buffer assembly can be removed for loading if required.  Depending on how you mount your array of buffers, the buffer can be loaded without removing the top.
 
-## Photos of Metal Buffer mounted on Switchwire with 6-cart ERCF
+## Metal Buffer on Switchwire with 6-cart ERCF
 
-![](Images/Mbuffer-left.jpg)
+![](Images/MBuffer-left.jpg)
 
-![](Images/Mbuffer-right.jpg)
+![](Images/MBuffer-right.jpg)
 
-![](Images/Mbuffer-module.jpg)
+![](Images/MBuffer-module.jpg)
 
 Enjoy!
