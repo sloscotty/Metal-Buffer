@@ -57,7 +57,9 @@ The top of the buffer assembly can be removed for loading if required.  Dependin
 ## Photos of Metal Buffer mounted on Switchwire with 6-cart ERCF
 
 ![](Images/Mbuffer-left.jpg)
+
 ![](Images/Mbuffer-right.jpg)
+
 ![](Images/Mbuffer-module.jpg)
 
 Enjoy!
