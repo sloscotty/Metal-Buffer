@@ -14,11 +14,11 @@ For you ERCF users, V-slot is available in 20x60 (enough for 3 buffers) for abou
 
 ![](Images/MBuffer-20x40.jpg)
 
+## Determine Extrusion Length
+
 To determine the length of the extrusion required (in mm) use the formula:
 
-BufferLength/2 + 65 (65mm is the space used by the wheel assembly.)
-
-## Determine Extrusion Length
+**BufferLength/2 + 65** (65mm is the space used by the wheel assembly.)
 
 To determine "BufferLength" for ERCF: add the length of the bowden tube,  the distance from the bottom of bowden tube to the nozzle, and the distance from the top of the bowden tube to the magnetic gate (35mm). Note: configured bowden to nozzle distance may not include distance between extruder gears and bowden.
 
