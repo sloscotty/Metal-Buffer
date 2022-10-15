@@ -10,11 +10,15 @@ The design could probably be modified to work with other 20x20 extrusion, but it
 
 ![](Images/MBuffer-extrusion-section.jpg)
 
-For you ERCF users, V-slot is available in 20x60 (enough for 3 buffers) for about $20/meter. And the spacing exactly matches the tool spacing of the ERCF. (It's also available in 20x40 and 20x80.)
+For you ERCF users, V-slot is available in 20x60 (enough for 3 buffers) for about $20/meter. And the spacing almost exactly matches the tool spacing of the ERCF. (It's also available in 20x40 and 20x80.) Here is an example of two buffers mounted in 20x40:
+
+![](Images/MBuffer-20x40.jpg)
 
 To determine the length of the extrusion required (in mm) use the formula:
 
 BufferLength/2 + 65 (65mm is the space used by the wheel assembly.)
+
+## Determine Extrusion Length
 
 To determine "BufferLength" for ERCF: add the length of the bowden tube,  the distance from the bottom of bowden tube to the nozzle, and the distance from the top of the bowden tube to the magnetic gate (35mm). Note: configured bowden to nozzle distance may not include distance between extruder gears and bowden.
 
@@ -44,10 +48,16 @@ For example, I'm using ERCF on a Switchwire with an LGX.  My bowden tube is 425m
 
 Print the parts using standard Voron settings (40% infill, 0.2 layerheight, 0.4 forced extrusion width) out of ABS or ASA.
 
-Assembly instructions are [here](./Documentation/MBuffer-Assembly.pdf).
+The Documentation folder contains the [assembly instructions](./Documentation/MBuffer-Assembly.pdf).
 
 ## Loading the Buffer
 
 The top of the buffer assembly can be removed for loading if required.  Depending on how you mount your array of buffers, the buffer can be loaded without removing the top.
+
+## Photos of Metal Buffer mounted on Switchwire with 6-cart ERCF
+
+![](Images/Mbuffer-left.jpg)
+![](Images/Mbuffer-right.jpg)
+![](Images/Mbuffer-module.jpg)
 
 Enjoy!
