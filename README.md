@@ -32,12 +32,13 @@ For example, I'm using ERCF on a Switchwire with an LGX.  My bowden tube is 425m
  - (1) M3 x 6mm BHCS
  - (1) M3 x 8mm BHCS
  - (2) M5 x 6mm BHCS (or self-tapping screws below)
- - (2) M5 x 10mm BHCS (or self-tapping screws below)
+ - (2) M5 x 10mm BHCS (or thumbscrews or self-tapping screws below)
  - (2) 2.5mm ID x 4.0mm OD PTFE tubes (of appropriate length)
  - (1) 608ZZ Bearing (from ERCP)
 
-### (optional)
- - M5 x 0.80 tapping tool
+### (options)
+ - M5 x 0.80 tapping tool (for tapping extrusion)
+ - (2) M5 x 10mm x 16mm diam thumbscrews [on amazon](https://www.amazon.com/dp/B07KFV6HW8/) (must be tapped with tool)
  - (4) [#10 x 3/4" Self-Tapping Screws](https://openbuildspartstore.com/self-tapping-screw/) (in case you don't like tapping)
  
 **Note 1:** You can use a bit longer screws (1-2mm) than shown **except** for the M3 BHCS (axle screws).
