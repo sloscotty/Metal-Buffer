@@ -63,4 +63,6 @@ The top of the buffer assembly can be removed for loading if required.  Dependin
 
 ![](Images/MBuffer-module.jpg)
 
+![](Images/MBuffer-Demo.mp4)
+
 Enjoy!
