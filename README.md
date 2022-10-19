@@ -65,6 +65,6 @@ The top of the buffer assembly can be removed for loading if required.  Dependin
 
 ### Brief Demo Video
 
-![](Images/Metal-Buffer.mp4)
+![Metal Buffer in action (video)](Images/Metal-Buffer.mp4)
 
 Enjoy!
