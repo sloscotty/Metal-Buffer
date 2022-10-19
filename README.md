@@ -63,4 +63,8 @@ The top of the buffer assembly can be removed for loading if required.  Dependin
 
 ![](Images/MBuffer-module.jpg)
 
+### Brief Demo Video
+
+![](Images/Metal-Buffer.mp4)
+
 Enjoy!
