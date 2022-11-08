@@ -55,7 +55,7 @@ The Documentation folder contains the [assembly instructions](./Documentation/MB
 
 The top of the buffer assembly can be removed for loading if required.  Depending on how you mount your array of buffers, the buffer can be loaded without removing the top.
 
-Here are two buffers mounted in 20x40 extrusion. The overall module will stay together even with one top removed for loading.  (However, I usually load without removing a top.)
+Here are three modules, each with two buffers mounted in 20x40 extrusion. Each module will stay together even with one top removed for loading.  However, I usually load without removing a top (or even lifting a module - I can reach to the middle of my array easily enough).
 
 ![](Images/MBuffer-module.jpg)
 
