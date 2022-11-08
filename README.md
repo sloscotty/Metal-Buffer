@@ -55,13 +55,25 @@ The Documentation folder contains the [assembly instructions](./Documentation/MB
 
 The top of the buffer assembly can be removed for loading if required.  Depending on how you mount your array of buffers, the buffer can be loaded without removing the top.
 
-## Metal Buffer on Switchwire with 6-cart ERCF
-
-![](Images/MBuffer-left.jpg)
-
-![](Images/MBuffer-right.jpg)
+Here are two buffers mounted in 20x40 extrusion. The overall module will stay together even with one top removed for loading.  (However, I usually load without removing a top.)
 
 ![](Images/MBuffer-module.jpg)
+
+## How it works and mounting recommendations/caveats (example: MBuffer on Switchwire with 6-cart ERCF)
+
+The filament paths in the buffer's top-assembly are actually straight (as shown in the cross-section). This forces the filament to the extrusion during unloading. Ideally, the resulting tension causes the filament to stay in both extrusions during the load and unload.
+
+![](Images/MBuffer-front-section.jpg)
+
+However, excessive "twisting" of the filament (from elsewhere in the system) can cause the filament to pop out of the extrusion.  Therefore positioning the buffer in order to reduce filament twist is essential.  Ideally you want the buffer assembly to be mounted directly behind the ERCF with each buffer aligned with one of the carts.  Even better if you can have your spools mounted behind the buffers.
+
+Here is my current mounting on Switchwire.
+
+![](Images/MBuffer-left-rearspools.jpg)
+
+![](Images/MBuffer-top.jpg)
+
+I originally had my spools routed to the buffers from the sides, but never did have problems with popping filament.  But I am only buffering ~600mm of filament.  A V2 buffering 1100-1200mm will require more care.  Thanks to garbqgebag on discord for beta-testing this design with a V2 and pointing out the importance of mounting position.  See our discussion on the Voron discord: https://discord.com/channels/460117602945990666/909743915475816458/1039285958933225603
 
 
 ### And finally, Metal Buffer in action!
